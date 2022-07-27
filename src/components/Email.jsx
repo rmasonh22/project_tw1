@@ -16,10 +16,10 @@ const Email = () => {
            
             <div class="p-6 md:-12">
                 <h2 class="font-serif text-xl font-medium text-center text-white md:text-left">
-                    Get Diet and fitness tips in your inbox
+                    Get Cello tips in your inbox
                 </h2>
                 <p class="max-w-xs my-4 text-xs leading-5 tracking-wide text-center text-white md:text-left">
-                    Eat better and exercise better. Sign up for the diet & fitness newsletter.
+                    Practice and perform better. Sign up for the cello performance newsletter.
                 </p>
                 <div class="flex flex-col mt-5 space-x-3 md:flex-row md:space-y-0">
                     <input type="text" placeholder="Enter your email address" class="p-2 px-4 text-center text-white bg-zinc-800 border
