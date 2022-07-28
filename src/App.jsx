@@ -1,12 +1,15 @@
 //import Counter from './components/Counter'
 //import Header from './components/Header'
-import Email from './components/Email'
+//import Email from './components/Email'
+//import Navbar from './components/Navbar'
+//import Hero from './components/Hero'
+import Landing from './components/Landing'
 
 function App() {
   return (
     <div>
-      <h1>Bujisoft Development Project</h1>
-     <Email />
+     <Landing/>
+     
     </div>
   )
 }
